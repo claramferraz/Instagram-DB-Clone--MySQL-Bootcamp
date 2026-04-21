@@ -12,4 +12,4 @@ TABLES:
 - Likes 👍
 - Comments 🗣️
 - Tags #
-
+- Unfollows ❌
