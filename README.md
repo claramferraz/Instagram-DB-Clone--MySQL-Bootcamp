@@ -1,4 +1,10 @@
 # Instagram DB Clone
+Criação e manipulação de uma imitação de banco de dados do Instagram
+
+- Criação de Banco de Dados
+- Insert de dados
+- Select e Joins
+- Triggers
 
 TABLES:
 - Users 👤
@@ -6,7 +12,4 @@ TABLES:
 - Likes 👍
 - Comments 🗣️
 - Tags #
-
-Relações entre seguidores (followers) e seguindo (followees), comentários e usuários, likes, usuários e fotos, hashtags e fotos.
-
 
